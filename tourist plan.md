@@ -11,4 +11,4 @@
 ![[{4FF3C097-6C20-4373-9058-CA8F5AF7E668}.png]]
 ![[{31432AC9-ECAB-4D25-89A9-532F94A4B880}.png]]
 6.something to purchase:
-7.photo taking:zsdrtyuiop[
+7.photo taking:
