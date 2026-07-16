@@ -2,7 +2,7 @@
 1.Everyday route plan:
 	tourist spot choose, how to choose the spot,
 	![[{EBC0E783-FA89-4FB0-ABBA-DA55755C0792}.png]]
-2.Everyday diet:
+2.Everyday diet:![[{47852D9F-6B4C-4104-A129-380647F95BC0}.png]]
 3:Time:
 4.Fare:
 5.something to take out:
