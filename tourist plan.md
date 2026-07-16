@@ -6,4 +6,4 @@
 4.Fare:
 5.something to take out:
 6.something to purchase:
-7.photo taking:
+7.photo taking:zsdrtyuiop[
