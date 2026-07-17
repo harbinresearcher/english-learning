@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "tourist plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
