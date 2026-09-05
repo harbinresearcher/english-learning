@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f29b3a09745f02e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MIT6.006/前言.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "前言"
-            }
-          },
-          {
-            "id": "e24c01c3ef759d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MIT6.006/算法题题库.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "算法题题库"
-            }
-          },
-          {
-            "id": "8421fd80b413ebb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 算法无处不在.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1 算法无处不在"
-            }
-          },
-          {
-            "id": "fecce9c24f2052f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2 算法是什么.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2 算法是什么"
-            }
-          },
-          {
-            "id": "9cf973f03a9a45b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.3 小结.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 小结"
-            }
-          },
-          {
-            "id": "ca2036f4fbbf903c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.1 算法效率评估.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1 算法效率评估"
-            }
-          },
-          {
             "id": "0d75c351d75ec180",
             "type": "leaf",
             "state": {
@@ -105,8 +21,7 @@
               "title": "2.2 迭代与递归"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
