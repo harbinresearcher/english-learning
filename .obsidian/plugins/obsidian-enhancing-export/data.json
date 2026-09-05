@@ -58,5 +58,10 @@
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
-  "showExportProgressBar": true
+  "showExportProgressBar": true,
+  "showOverwriteConfirmation": false,
+  "lastExportDirectory": {
+    "win32": "D:\\mydata(C)"
+  },
+  "lastExportType": "Word (.docx)"
 }
